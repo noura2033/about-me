@@ -1,21 +1,22 @@
 #Nour Abid
 #noura2033@hstat.org
 #HSTAT
-##BIO
-Schedule 
-_US History_
+---
+Schedule  
 
-_English_
+* _US History_
 
-_Spanish_
+* _English_
 
-_Trig_
+* _Spanish_
 
-_Lunch_
+* _Trig_
 
-_Gym_
+* _Lunch_
 
-_Physics_
+* _Gym_
 
-_Software_
+* _Physics_
+
+* _Software_
 
